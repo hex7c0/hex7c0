@@ -23,7 +23,8 @@
 <a>
   <img height=160 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hex7c0&show_icons=true&locale=en&layout=compact&hide=tex&langs_count=6&size_weight=0.5&count_weight=0.5" alt="hex7c0 languages" />
 </a>
--->
+
 <a>
   <img height=160 align="left" src="https://github-readme-stats.vercel.app/api?username=hex7c0&include_all_commits=true&show_icons=true&hide=contribs,prs,issues" alt="hex7c0 stats" />
 </a>
+-->
